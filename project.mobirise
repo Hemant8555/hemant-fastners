@@ -79,7 +79,7 @@
     "usedWebp": true,
     "mbrsiteDomain": "jlzviwyviu",
     "cookiesAlert": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
